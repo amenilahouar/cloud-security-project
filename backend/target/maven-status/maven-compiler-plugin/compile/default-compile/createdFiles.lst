@@ -1,0 +1,8 @@
+com\example\crud\repository\ItemRepository.class
+com\example\crud\model\Category.class
+com\example\crud\controller\ItemController.class
+com\example\crud\CrudApplication.class
+com\example\crud\model\Item.class
+com\example\crud\repository\CategoryRepository.class
+com\example\crud\controller\CategoryController.class
+com\example\crud\config\CorsConfig.class
